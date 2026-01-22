@@ -18,7 +18,7 @@ public class Personaje {
     private String juego;
     private String genero;
 
-    // Constructors
+    // Constructores
     public Personaje() {}
 
     public Personaje(String nombre, String lore, String imagen, String juego, String genero) {
