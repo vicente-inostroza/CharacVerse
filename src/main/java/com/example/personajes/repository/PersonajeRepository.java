@@ -1,6 +1,6 @@
 package com.example.personajes.repository;
 
-import com.example.personajes.entity.Personaje;
+import com.example.personajes.model.Personaje;
 import org.springframework.data.jpa.repository.JpaRepository;
 import org.springframework.data.jpa.repository.Query;
 import org.springframework.data.repository.query.Param;

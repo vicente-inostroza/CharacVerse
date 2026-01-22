@@ -1,6 +1,6 @@
 package com.example.personajes.controller;
 
-import com.example.personajes.entity.Personaje;
+import com.example.personajes.model.Personaje;
 import com.example.personajes.service.PersonajeService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.http.ResponseEntity;
